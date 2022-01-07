@@ -1,0 +1,30 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #f05555;
+    color: #ffffff;
+    border-radius: 0;
+    border-bottom: 10px solid white;
+    margin: 20px;
+    padding: 40px;
+}
+
+main {
+    justify-content: center;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.card {
+    box-shadow: 3px 3px #8d8d8d;
+}
+
+.position {
+    font-size: 18px;
+}
