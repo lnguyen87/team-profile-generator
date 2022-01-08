@@ -9,7 +9,7 @@ test('properties of engineer object', () => {
     expect(engineer.github).toEqual('lnguyen87');
 })
 
-test("get engineer's name", () => {
+test("get engineer's info", () => {
     const engineer = new Engineer('John', '1234', 'john@email.com', 'lnguyen87')
 
     expect(engineer.getName()).toBe('John');
